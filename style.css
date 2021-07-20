@@ -19,7 +19,7 @@ body{
     flex-direction: column;
     align-items: center;
     font-family: 'Otomanopee One', sans-serif;
-    font-size: 5vh;
+    font-size: 3%;
     color: #000;
     backdrop-filter: blur(5px);
 }
